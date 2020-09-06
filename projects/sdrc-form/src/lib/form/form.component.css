@@ -1,0 +1,51 @@
+:host >>> .mat-form-field{
+    width: 100%;
+}
+:host >>> .mat-form-field-infix{
+    border-top: 1px solid #999;
+    border: 1px solid #999;
+    border-bottom: none;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.mat-pseudo-checkbox-checked:after {
+    width: 10px !important;
+    height: 5px !important;
+}
+
+:host >>> .mat-form-field {
+    display: block;
+}
+:host >>> .mandatory{color:red;}
+
+:host >>> .mat-form-field-suffix{
+    height: 33px;
+    padding-top: 5px;
+    border-top: 1px solid #adadad;
+    border-right: 1px solid #adadad;
+}
+.btn-margin{
+    margin-left: 15px;
+}
+.paddingtop{padding-top:5px;}
+.padding-mintop{padding-top:5px;}
+.margin-bottom{margin-bottom: 6px;}
+.margin-mintop{margin-top:7px;}
+.formpadding{padding-top:10px;}
+mat-checkbox#mat-checkbox-1 {
+    padding-right: 15px;
+}
+mat-radio-button#mat-radio-2 {
+    padding-right: 10px;
+}
+.uploadphotoerror{color:#f44336;font-size: 75%}
+mat-checkbox#mat-checkbox-2 {
+    padding-right: 15px;
+   
+}
+
+.errormssgeront{font-size: 80%;}
+.lineheight{line-height: 5%}
+form{
+    margin-bottom: 120px;
+}

@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/sdrc-form/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/sdrc-form/tsconfig.spec.json"
+    }
+]
 }
